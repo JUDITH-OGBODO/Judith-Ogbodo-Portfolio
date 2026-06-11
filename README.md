@@ -6,7 +6,8 @@ I am a Data Analyst and IT Support Specialist with experience in data analysis, 
 ABOUT ME
 I am Judith Chinazaekpere Ogbodo, a results-driven Data Analyst and an IT support specialist with a deep-seated passion for using data and technology to solve business problems, improve operational efficiency, and support informed decision-making. My expertise spans across key areas of analytics, including descriptive analytics to understand past performance, diagnostic analytics to uncover the root causes of issues, and predictive analytics to forecast future trends. Through practical projects and professional training, I have developed skills in data analysis, dashboard development, business reporting, technical support, workflow automation, and customer service. My experience includes analysing business data, building interactive dashboards, generating actionable insights, managing support tickets, resolving technical issues, and automating business processes. I enjoy combining analytical thinking with problem-solving to deliver solutions that create measurable value.
 
-TECHNICAL SKILLS:
+TECHNICAL SKILLS
+
 Data Analytics
 •	Excel
 •	SQL
@@ -51,6 +52,7 @@ IT Support Specialist
 •	Training and User Support: I provide guidance, onboarding support, and user assistance to help customers and team members effectively utilize business applications and systems.
 •	Ticket Management
 
-CONTACT:
+CONTACT
+
 LinkedIn: Judith-Ogbodo  
 Email: ogbodojudithch11@gmail.com
